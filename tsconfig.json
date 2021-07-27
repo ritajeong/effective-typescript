@@ -2,7 +2,7 @@
   "compilerOptions": {
     "module": "ESNext",
     "typeRoots": ["./node_modules/@types"],
-    "noImplicitAny": true,
+    "noImplicitAny": false,
     "strictNullChecks": true,
     "lib": ["esnext", "dom"]
   },
